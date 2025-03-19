@@ -52,6 +52,10 @@ This document compiles the panel comments review with details on what is fulfill
      - Include details on technology, tools, and steps to implement both 360° virtual tours and 3GS.
    - **Action:** Create a sub-section titled “360° and 3GS Implementation” with clear details.
 </del>
+<br>
+
+
+
 2. **Number of Tourist Spots Intended**  
    - **Where to Add:**  
      - Chapter 1 (Scope and Limitations)
