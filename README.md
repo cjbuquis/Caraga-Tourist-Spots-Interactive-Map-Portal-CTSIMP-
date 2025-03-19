@@ -6,7 +6,7 @@ Research Paper Version Control
 For the panel comments review and next steps, see [Panel Comments](panel-comments.md).
 
 
-## Google Doc File Link
+## Version Control Keyboard Shortcut for Google Docs
 https://docs.google.com/document/d/1BIZhMKipax1GiYyVTL83zR7AJ_QE15KMfVKPk1f_0vU/edit?usp=sharing
 
 ## Google Doc File Link
