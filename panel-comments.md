@@ -74,7 +74,7 @@ This document compiles the panel comments review with details on what is fulfill
 
 </del>
 
-     <br>
+     </br>
 
 <del>
 
@@ -87,7 +87,7 @@ This document compiles the panel comments review with details on what is fulfill
 
 </del>
 
-     <br>
+     </br>
 
 4. **Methods for Capturing Images**  
    - **Where to Add:**  
