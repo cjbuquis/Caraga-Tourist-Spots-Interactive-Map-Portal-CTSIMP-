@@ -103,12 +103,18 @@ This document compiles the panel comments review with details on what is fulfill
 
 </del>
 
+<del>
+
 5. **Origin of the Problem**  
    - **Where to Add:**  
      - Chapter 1 (Background of the Study)
    - **What to Add:**  
      - Provide additional details on how personal experiences, observations, and stakeholder feedback shaped the problem.
    - **Action:** Expand the background narrative.
+
+</del>
+
+<del>
 
 6. **Addressing False Navigation from Google Maps**  
    - **Where to Add:**  
@@ -117,6 +123,10 @@ This document compiles the panel comments review with details on what is fulfill
      - Explain how your system will validate or improve navigation data (e.g., cross-check with user feedback, alternate mapping sources).
    - **Action:** Insert a section titled “Navigation Accuracy and Validation.”
 
+</del>
+
+<del>
+
 7. **Additional Description on Diagrams**  
    - **Where to Add:**  
      - Chapter 3 (Methodology) after the diagrams
@@ -124,11 +134,17 @@ This document compiles the panel comments review with details on what is fulfill
      - Provide detailed captions or a description for each diagram (ER diagram, use-case diagram, etc.).
    - **Action:** Add a “Diagram Descriptions” paragraph below each diagram.
 
+</del>
+
+<del>
+
 8. **Rationale Behind User Registration**  
    - **Where to Add:**  
      - Chapter 1 (Objectives/Significance) or within the UI discussion in Chapter 3
    - **What to Add:**  
      - Explain why user registration is necessary (e.g., personalized experience, data integrity, tracking submissions).
+
+</del>
 
 9. **Interviews with Caraga DOT**  
    - **Where to Add:**  

@@ -15,4 +15,8 @@ Ctrl+Alt+Shift+H on google doc to view document version control
 
 
 ## Original Comments During Proposal  
-For the panel comments review and next steps, see [Panel Comments During Proposal ](panel-comments-during-proposal.pdf)
+For the original panel comments during the proposal, see [Panel Comments During Proposal ](panel-comments-during-proposal.pdf)
+
+
+## Survey Questions 
+For the refined new survey questions, see [Survey Questions ](Gform-Survey.md).
