@@ -19,4 +19,4 @@ For the panel comments review and next steps, see [Panel Comments During Proposa
 
 
 ## Survey Questions 
-For the panel comments review and next steps, see [Survey Questions ](Gform-Survey.md).
+For the refined new survey questions, see [Survey Questions ](Gform-Survey.md).
