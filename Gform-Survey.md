@@ -26,13 +26,10 @@ To gather comprehensive insights for the Caraga Tourist Spots Interactive Map Po
      - Route planning and map integration  
      - Other (please specify)
 
-7. **Would you be willing to register on a platform that offers personalized recommendations and updates about tourist spots in Caraga?**  
-   - Options: Yes, Maybe, No
-
-8. **What challenges do you commonly face when planning a trip to a new destination in Caraga?**  
+7. **What challenges do you commonly face when planning a trip to a new destination in Caraga?**  
    - Open-ended: Please describe any difficulties regarding navigation, information accuracy, or accessibility.
 
-9. **How likely are you to use an interactive portal that provides comprehensive details and 360° virtual tours of Caraga’s tourist spots?**  
+8. **How likely are you to use an interactive portal that provides comprehensive details and 360° virtual tours of Caraga’s tourist spots?**  
    - Options: Very Likely, Likely, Neutral, Unlikely, Very Unlikely
 
 
