@@ -92,6 +92,7 @@ This document compiles the panel comments review with details on what is fulfill
 
 </del>
 
+<del>
 
 4. **Methods for Capturing Images**  
    - **Where to Add:**  
@@ -99,6 +100,8 @@ This document compiles the panel comments review with details on what is fulfill
    - **What to Add:**  
      - Detail the process, camera types, resolution, and procedures for capturing images.
    - **Action:** Add a sub-section titled “Image Capturing Techniques” with step-by-step instructions.
+
+</del>
 
 5. **Origin of the Problem**  
    - **Where to Add:**  
