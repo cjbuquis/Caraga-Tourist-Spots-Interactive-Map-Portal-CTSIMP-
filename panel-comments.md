@@ -43,7 +43,7 @@ This document compiles the panel comments review with details on what is fulfill
   - **Location:** Chapter 1 (Scope and Limitations)  
   - **Details:** The project aims to include a maximum of 10 carefully selected tourist spots. These spots will be chosen based on criteria such as cultural significance, historical value, and natural appeal.
 
-  - **Scope for Tourist Spots & Basis for Selection**  
+- **Scope for Tourist Spots & Basis for Selection**  
   - **Location:** Chapter 1 or a dedicated subsection  
   - **Details:** The selection of tourist spots is guided by a comprehensive set of criteria, including cultural significance, historical value, natural appeal, and accessibility. For instance, Banza Church Ruins highlight cultural and historical importance, while Alicia's Ridge exemplifies natural appeal.
   - **Action:** A brief explanatory paragraph has been added.
