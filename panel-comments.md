@@ -43,14 +43,14 @@ This document compiles the panel comments review with details on what is fulfill
 
 ## ⚠️ Partially or Not Fulfilled Comments – Next Steps
 
-1. **Implementing 360 & 3GS**  
+1. ~~**Implementing 360 & 3GS**  
    - **Where to Add:**  
      - Chapter 1 (Background/Problem Statement)  
      - Chapter 3 (Implementation)  
    - **What to Add:**  
      - Explain what “3GS” refers to (e.g., 3D or another feature).  
      - Include details on technology, tools, and steps to implement both 360° virtual tours and 3GS.
-   - **Action:** Create a sub-section titled “360° and 3GS Implementation” with clear details.
+   - **Action:** Create a sub-section titled “360° and 3GS Implementation” with clear details.~~
 
 2. **Number of Tourist Spots Intended**  
    - **Where to Add:**  
