@@ -54,13 +54,15 @@ This document compiles the panel comments review with details on what is fulfill
 </del>
 <br>
 
-
+<del>
 
 2. **Number of Tourist Spots Intended**  
    - **Where to Add:**  
      - Chapter 1 (Scope and Limitations)
    - **What to Add:**  
      - State a planned number or criteria for selecting tourist spots (e.g., “The project aims to include approximately X spots, chosen based on...”).
+</del>
+     <br>
 
 3. **Scope for Tourist Spots & Basis for Selection**  
    - **Where to Add:**  
