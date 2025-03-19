@@ -39,10 +39,24 @@ This document compiles the panel comments review with details on what is fulfill
   - **Location:** Objectives (Chapter 1) and Methodology (Chapter 3)  
   - **Details:** Clear research direction is set.
 
+- **Number of Tourist Spots Intended**  
+  - **Location:** Chapter 1 (Scope and Limitations)  
+  - **Details:** The project aims to include a maximum of 10 carefully selected tourist spots. These spots will be chosen based on criteria such as cultural significance, historical value, and natural appeal.
+
+- **Scope for Tourist Spots & Basis for Selection**  
+  - **Location:** Chapter 1 or a dedicated subsection  
+  - **Details:** The selection of tourist spots is guided by a comprehensive set of criteria, including cultural significance, historical value, natural appeal, and accessibility. For instance, Banza Church Ruins highlight cultural and historical importance, while Alicia's Ridge exemplifies natural appeal.
+  - **Action:** A brief explanatory paragraph has been added.
+
+  - **Methods for Capturing Images**  
+  - **Location:** Chapter 3 (Methodology – under Implementation)  
+  - **Details:** Detail the process, camera types, resolution, and procedures for capturing images.  
+  - **Action:** Add a sub-section titled “Image Capturing Techniques” with step-by-step instructions.
 ---
 
 ## ⚠️ Partially or Not Fulfilled Comments – Next Steps
 
+<del>
 1. **Implementing 360 & 3GS**  
    - **Where to Add:**  
      - Chapter 1 (Background/Problem Statement)  
@@ -51,12 +65,23 @@ This document compiles the panel comments review with details on what is fulfill
      - Explain what “3GS” refers to (e.g., 3D or another feature).  
      - Include details on technology, tools, and steps to implement both 360° virtual tours and 3GS.
    - **Action:** Create a sub-section titled “360° and 3GS Implementation” with clear details.
+</del>
+
+<br>
+
+<del>
 
 2. **Number of Tourist Spots Intended**  
    - **Where to Add:**  
      - Chapter 1 (Scope and Limitations)
    - **What to Add:**  
      - State a planned number or criteria for selecting tourist spots (e.g., “The project aims to include approximately X spots, chosen based on...”).
+
+</del>
+
+
+
+<del>
 
 3. **Scope for Tourist Spots & Basis for Selection**  
    - **Where to Add:**  
@@ -65,12 +90,18 @@ This document compiles the panel comments review with details on what is fulfill
      - Describe the criteria (cultural, historical, accessibility, etc.) used to select the spots.
    - **Action:** Write a brief paragraph explaining the rationale behind the chosen spots.
 
+</del>
+
+<del>
+
 4. **Methods for Capturing Images**  
    - **Where to Add:**  
      - Chapter 3 (Methodology – under Implementation)
    - **What to Add:**  
      - Detail the process, camera types, resolution, and procedures for capturing images.
    - **Action:** Add a sub-section titled “Image Capturing Techniques” with step-by-step instructions.
+
+</del>
 
 5. **Origin of the Problem**  
    - **Where to Add:**  
