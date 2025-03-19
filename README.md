@@ -12,4 +12,4 @@ https://docs.google.com/document/d/1BIZhMKipax1GiYyVTL83zR7AJ_QE15KMfVKPk1f_0vU/
 
 
 ## Original Comments During Proposal  
-For the panel comments review and next steps, see [Panel Comments During Proposal ](F-EVN-CCIS-THESIS-FORM-A-COMMENTS-SHEET-3 (Original Comments During Proposal).pdf).
+For the panel comments review and next steps, see [Panel Comments During Proposal ](F-EVN-CCIS-THESIS-FORM-A-COMMENTS-SHEET-3 (Original Comments During Proposal).pdf)
