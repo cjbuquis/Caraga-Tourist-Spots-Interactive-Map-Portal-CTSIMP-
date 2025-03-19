@@ -47,6 +47,11 @@ This document compiles the panel comments review with details on what is fulfill
   - **Location:** Chapter 1 or a dedicated subsection  
   - **Details:** The selection of tourist spots is guided by a comprehensive set of criteria, including cultural significance, historical value, natural appeal, and accessibility. For instance, Banza Church Ruins highlight cultural and historical importance, while Alicia's Ridge exemplifies natural appeal.
   - **Action:** A brief explanatory paragraph has been added.
+
+  - **Methods for Capturing Images**  
+  - **Location:** Chapter 3 (Methodology – under Implementation)  
+  - **Details:** Detail the process, camera types, resolution, and procedures for capturing images.  
+  - **Action:** Add a sub-section titled “Image Capturing Techniques” with step-by-step instructions.
 ---
 
 ## ⚠️ Partially or Not Fulfilled Comments – Next Steps
