@@ -16,7 +16,7 @@ Ctrl+Alt+Shift+H on google doc to view document version control
 For the original panel comments during proposal and the comments which are already applied, 
 see [Original Panel Comments](original-panel-comments.md)
 
-## Original Comments During Proposal  
+## Original Comments During Proposal  ✅ (PDF)
 For the original panel comments during the proposal, see [Panel Comments During Proposal ](panel-comments-during-proposal.pdf)
 
 
