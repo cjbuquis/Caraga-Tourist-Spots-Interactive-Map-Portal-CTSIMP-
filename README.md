@@ -13,7 +13,8 @@ https://docs.google.com/document/d/1BIZhMKipax1GiYyVTL83zR7AJ_QE15KMfVKPk1f_0vU/
 Ctrl+Alt+Shift+H on google doc to view document version control
 
 ## To View Original Comments During Proposal --Which Comments are already Applied
-For the original panel comments during proposal and the comments which are already applied, see [Original Panel Comments](original-panel-comments.md)
+For the original panel comments during proposal and the comments which are already applied, 
+see [Original Panel Comments](original-panel-comments.md)
 
 ## Original Comments During Proposal  
 For the original panel comments during the proposal, see [Panel Comments During Proposal ](panel-comments-during-proposal.pdf)
