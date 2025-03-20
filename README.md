@@ -3,7 +3,7 @@ Research Paper Version Control
 
 
 ## Additional Documentation  
-For the panel comments review and next steps, see [Panel Comments](panel-comments-and suggestive-enhancement.md)
+For the panel comments review and next steps, see [Panel Comments](panel-comments.md)
 
 
 ## Google Doc File Link
