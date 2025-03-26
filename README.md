@@ -22,3 +22,7 @@ For the original panel comments during the proposal, see [Panel Comments During 
 
 ## Survey Questions 
 For the refined new survey questions, see [Survey Questions ](Gform-Survey.md).
+
+
+## Docs for Scheduling Final Defense 
+https://drive.google.com/drive/folders/10gtkMKAfgp-yWhHx31VeiQyd6qvNt1sc?usp=sharing
